@@ -72,7 +72,7 @@
 ## Critical prerequisites to install
 
 * run ```pip3 install -r requirements.txt```
-* if pip install -r requirements.txt --index-url https://pypi.org/simple/ ```
+* **if you use rplit  use ``` pip install -r requirements.txt --index-url https://pypi.org/simple/ ```**
 
 * **Rename the file `.env.dev` to `.env`**
 
